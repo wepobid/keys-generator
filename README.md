@@ -1,5 +1,5 @@
-# Keys.lol generator
-This repository contains the key generator for [Keys.lol](https://keys.lol)
+# Keys generator
+This repository contains the key generator for [Bitcoindefi.co](https://keysfor.bitcoindefi.co)
 
 ## Building and installing
 1. cd to `~/go/src/github.com/sjorso/keys-generator`
